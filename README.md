@@ -1,2 +1,2 @@
 # nes
-trying to make an nes on fpga
+nes project i may/may not get around to
